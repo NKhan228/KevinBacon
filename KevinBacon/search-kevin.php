@@ -14,11 +14,6 @@
         
 <?php  $firstName; $lastName;
 
-  $server="www.watzekdi.net";
-  $username="watzekdi_cs393";
-  $password="KevinBac0n";
-  $database="watzekdi_imdb";
-  $dbport = 3306;
 
   $connect="mysql:host=$server;dbname=$database;charset=utf8;port=$dbport";
   try {
