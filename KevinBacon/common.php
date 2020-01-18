@@ -1,11 +1,8 @@
-<html class="gr__courses_cs_washington_edu"><head>
+<html>
+	<head>
 		<title>My Movie Database (MyMDb)</title>
 		<meta charset="utf-8">
-		
-		<link href="https://webster.cs.washington.edu/images/kevinbacon/favicon.png" rel="shortcut icon" type="image/png">
-		<script src="https://webster.cs.washington.edu/js/kevinbacon/provided.js" type="text/javascript"></script>
 
-		<!-- Link to your CSS file that you should edit -->
 		<link href="Baconcss.css" rel="stylesheet" type="text/css">
 	</head>
 
