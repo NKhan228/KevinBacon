@@ -1,0 +1,43 @@
+/*Global Styles
+---------------------------------------*/
+html {
+    box-sizing: border-box;
+} 
+
+*, *:before, *:after {
+    box-sizing: inherit;
+} /* applies a natural box layout model to all elements, but allowing components to change*/
+body {
+font-family: 'Open Sans', sans-serif;
+/*margin: 0;*/
+}
+
+.weather-container{
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.weather{
+    font-size: 22px;
+    margin: 0;
+}
+
+.temp{
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.icon{
+    background-color: darkgrey;
+    width: 5%;
+}
+    h4{
+    margin-left: 10%;
+    margin-bottom: 0px;
+} 
+    h4{
+    margin-left: 15%;
+    margin-bottom: 0px;
+}
+    }
