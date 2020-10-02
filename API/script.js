@@ -1,6 +1,6 @@
 var city = "Portland";
 
-$.getJSON("https://api.openweathermap.org/data/2.5/weather?q=" + city +"&units=imperial&appid=b43206c180a0ec617ea5adfbd4b77f75", 
+$.getJSON("https://api.openweathermap.org/data/2.5/weather?q=" + city +"&units=imperial&appid=", 
     function(data){
     console.log(data);
     
